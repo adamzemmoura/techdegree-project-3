@@ -198,3 +198,8 @@ option {
 		clear: both;
 	}
 }
+
+.disabled {
+	text-decoration: line-through;
+	color: gray;
+}
